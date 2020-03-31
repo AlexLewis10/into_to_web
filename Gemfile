@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
-gem 'sinatra', :github => 'sinatra/sinatra'
+
+gem 'capybara'
+gem 'selenium-webdriver'
 gem 'shotgun'
+gem 'sinatra', :github => 'sinatra/sinatra'
